@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'PTSans_Regular' ;
+    src: url('../fonts/PTSans-Regular.woff') format('woff'), url('../fonts/PTSans-Regular.woff2') format('woff2');
+
+}
+
+@font-face {
+    font-family: 'PTSans_Bold' ;
+    src: url('../fonts/PTSans-Bold.woff') format('woff'), url('../fonts/PTSans-Bold.woff2') format('woff2');
+    
+}
+
+@font-face {
+    font-family: 'PTSans_Italic' ;
+    src: url('../fonts/PTSans-BoldItalic.woff') format('woff'), url('../fonts/PTSans-BoldItalic.woff2') format('woff2');
+    
+}

@@ -1,0 +1,5 @@
+@import url('../libs/normalize.css');  /*Готовая библиотека обеспечивающая кроссброузерность*/
+@import url('./var.css');    
+@import url('./style.css'); 
+@import url('./fonts.css'); 
+
